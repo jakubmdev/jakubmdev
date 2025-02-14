@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=jakubmdev&label=Visitors&color=2196F3&style=flat" alt="Visitors">
 </p>
 
-## Hi there 👋
+## 🧑‍💻 Greetings!
 
 I'm a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond. I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
 
