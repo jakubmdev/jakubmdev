@@ -16,5 +16,4 @@ Development Ethos: **Building with precision, learning with resilience, and movi
 
 ## 🚀 Professional Goals
 - **Career Development**: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
-
 - **Continuous Learning**: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
