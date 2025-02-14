@@ -19,7 +19,7 @@ I am driven by a desire to make a meaningful impact through my work, helping oth
 ## 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript, Python, PHP, Java, Ruby, C#
 - **Frameworks & Libraries**: React, Next.js, Angular, Vue, Node.js, Express.js, NestJS, Django, Flask, Laravel, Spring, RoR, .NET
-- **Tools & Platforms**: GitHub, Figma, Docker, Kubernetes, Three.js
+- **Tools & Platforms**: Git, Figma, Docker, Kubernetes, Three.js
 
 ## 🚀 Professional Goals
 - **Career Development**: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
