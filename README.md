@@ -9,11 +9,6 @@ I'm a software engineer focused on harnessing technology to make significant imp
 Development Ethos: **Building with precision, learning with resilience, and moving forward with purpose.**
 
 
-
-## 😄 About Me
-
-I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
-
 ## 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript, Python, PHP, Java, Ruby, C#
 - **Frameworks & Libraries**: React, Next.js, Angular, Vue, Node.js, Express.js, NestJS, Django, Flask, Laravel, Spring, Ruby on rails, .NET, Tailwind CSS, Three.js, Jest, Cypress
